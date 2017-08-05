@@ -3,8 +3,11 @@
 
 ### Python Data Structures:
 
-1. Lists
-2. Tuples
-3. Sequences
-4. Sets
-5. Dictionaries
+1. Strings
+2. Lists
+3. Tuples
+4. Sequences
+5. Sets
+6. Dictionaries
+7. Queues
+8. Stacks
